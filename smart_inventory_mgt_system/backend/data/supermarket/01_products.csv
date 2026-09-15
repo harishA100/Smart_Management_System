@@ -1,0 +1,151 @@
+product_id,product_name,category,subcategory,brand,unit_cost,unit_price,shelf_life_days,unit_of_measure,reorder_point,max_stock
+P0001,FreshChoice Tea 001,Beverages,Soft Drink,Regular,3.92,2.41,365,unit,42,266
+P0002,FreshChoice Rice 002,Grocery,Pulses,Regular,12.88,0.92,45,liter,19,279
+P0003,FreshChoice Soap 003,Personal Care,Skin Care,Premium,7.31,4.62,60,unit,10,244
+P0004,ValuePlus Tea 004,Beverages,Tea,Regular,18.38,10.91,90,unit,40,200
+P0005,HomeBest Detergent 005,Household,Paper,Regular,1.62,4.87,60,unit,19,493
+P0006,GreenBasket Tea 006,Beverages,Coffee,Economy,20.94,3.59,60,pack,47,186
+P0007,HomeBest Soft Drink 007,Beverages,Soft Drink,Regular,11.83,5.69,365,pack,48,216
+P0008,DailyMart Rice 008,Grocery,Oil,Premium,7.06,4.54,180,kg,18,385
+P0009,GreenBasket Ice Cream 009,Frozen,Frozen Food,Premium,3.92,15.0,180,kg,42,269
+P0010,ValuePlus Bread 010,Bakery,Bread,Economy,12.59,15.21,30,pack,45,131
+P0011,HomeBest Bread 011,Bakery,Cake,Premium,15.1,9.57,60,unit,48,419
+P0012,NutriMax Tea 012,Beverages,Tea,Regular,7.69,3.5,30,kg,37,440
+P0013,HomeBest Milk 013,Dairy,Cheese,Economy,12.94,4.3,60,pack,39,448
+P0014,HomeBest Oil 014,Grocery,Spices,Regular,3.24,7.51,60,pack,8,173
+P0015,FreshChoice Coffee 015,Beverages,Juice,Economy,19.26,2.92,90,pack,21,320
+P0016,DailyMart Bun 016,Bakery,Bun,Economy,5.43,6.51,365,kg,33,314
+P0017,FreshChoice Frozen Food 017,Frozen,Frozen Food,Regular,8.78,11.93,45,pack,5,86
+P0018,DailyMart Rice 018,Grocery,Rice,Premium,2.24,5.06,365,liter,18,326
+P0019,NutriMax Butter 019,Dairy,Yogurt,Premium,20.28,4.13,30,liter,27,266
+P0020,GreenBasket Bun 020,Bakery,Bread,Economy,16.51,13.07,30,liter,26,459
+P0021,DailyMart Soft Drink 021,Beverages,Soft Drink,Economy,11.49,8.67,60,liter,20,497
+P0022,GreenBasket Juice 022,Beverages,Juice,Economy,24.98,16.79,30,pack,15,258
+P0023,GreenBasket Frozen Food 023,Frozen,Ice Cream,Regular,4.53,0.44,90,kg,34,196
+P0024,NutriMax Bun 024,Bakery,Bun,Economy,18.1,3.43,60,pack,8,346
+P0025,NutriMax Oil 025,Grocery,Rice,Regular,14.81,10.26,180,pack,8,310
+P0026,DailyMart Juice 026,Beverages,Juice,Economy,21.61,8.31,180,pack,42,354
+P0027,HomeBest Rice 027,Grocery,Spices,Economy,14.8,10.65,60,pack,47,416
+P0028,DailyMart Cleaner 028,Household,Cleaner,Regular,16.96,6.28,60,unit,5,284
+P0029,FreshChoice Soft Drink 029,Beverages,Tea,Regular,23.36,17.66,45,kg,23,130
+P0030,HomeBest Ice Cream 030,Frozen,Frozen Food,Economy,20.52,6.27,365,unit,13,185
+P0031,FreshChoice Soft Drink 031,Beverages,Tea,Premium,15.32,14.47,45,kg,37,300
+P0032,FreshChoice Shampoo 032,Personal Care,Skin Care,Premium,1.58,6.94,45,kg,15,429
+P0033,HomeBest Ice Cream 033,Frozen,Frozen Food,Regular,2.34,17.71,45,unit,28,348
+P0034,GreenBasket Yogurt 034,Dairy,Milk,Premium,9.43,18.69,30,kg,18,399
+P0035,NutriMax Chips 035,Snacks,Chocolate,Economy,22.16,8.36,180,pack,20,492
+P0036,DailyMart Butter 036,Dairy,Milk,Regular,18.55,6.91,90,pack,22,131
+P0037,GreenBasket Juice 037,Beverages,Coffee,Regular,5.39,18.4,60,kg,19,164
+P0038,NutriMax Pulses 038,Grocery,Spices,Premium,7.33,1.76,60,kg,46,310
+P0039,NutriMax Bun 039,Bakery,Cake,Regular,3.33,19.42,45,kg,7,105
+P0040,ValuePlus Bun 040,Bakery,Cake,Premium,15.35,10.42,90,pack,21,72
+P0041,FreshChoice Bun 041,Bakery,Bun,Economy,18.13,14.94,365,pack,28,270
+P0042,NutriMax Tea 042,Beverages,Tea,Economy,21.28,14.51,60,kg,47,259
+P0043,GreenBasket Paper 043,Household,Cleaner,Economy,3.62,8.64,90,pack,44,341
+P0044,GreenBasket Shampoo 044,Personal Care,Toothpaste,Premium,5.65,15.8,180,kg,34,276
+P0045,NutriMax Frozen Food 045,Frozen,Ice Cream,Economy,4.66,2.06,180,kg,10,469
+P0046,NutriMax Chocolate 046,Snacks,Biscuits,Regular,4.11,1.31,90,unit,34,262
+P0047,NutriMax Nuts 047,Snacks,Nuts,Premium,6.48,13.26,30,unit,32,162
+P0048,NutriMax Butter 048,Dairy,Milk,Economy,6.61,17.03,90,pack,34,391
+P0049,GreenBasket Paper 049,Household,Paper,Economy,10.96,18.17,90,pack,35,280
+P0050,DailyMart Toothpaste 050,Personal Care,Skin Care,Economy,6.36,9.02,365,kg,20,189
+P0051,ValuePlus Paper 051,Household,Detergent,Regular,4.2,7.91,45,pack,9,262
+P0052,ValuePlus Bun 052,Bakery,Cake,Premium,2.03,16.72,90,unit,41,244
+P0053,FreshChoice Ice Cream 053,Frozen,Ice Cream,Premium,21.41,19.09,90,pack,36,162
+P0054,GreenBasket Skin Care 054,Personal Care,Shampoo,Premium,8.74,13.71,90,pack,34,115
+P0055,GreenBasket Rice 055,Grocery,Rice,Economy,11.0,17.39,45,unit,21,244
+P0056,DailyMart Cleaner 056,Household,Cleaner,Premium,19.15,7.83,90,kg,10,290
+P0057,NutriMax Rice 057,Grocery,Oil,Regular,16.43,15.71,365,unit,6,176
+P0058,FreshChoice Biscuits 058,Snacks,Biscuits,Regular,12.1,2.64,45,liter,49,181
+P0059,DailyMart Paper 059,Household,Paper,Economy,18.1,15.64,45,kg,11,346
+P0060,ValuePlus Spices 060,Grocery,Spices,Economy,5.36,12.01,365,pack,11,406
+P0061,NutriMax Shampoo 061,Personal Care,Shampoo,Premium,13.55,13.37,30,kg,5,484
+P0062,GreenBasket Bread 062,Bakery,Cake,Premium,16.07,16.64,365,pack,32,140
+P0063,HomeBest Skin Care 063,Personal Care,Skin Care,Premium,20.73,12.01,60,pack,10,192
+P0064,DailyMart Ice Cream 064,Frozen,Ice Cream,Premium,1.2,17.08,45,liter,18,231
+P0065,ValuePlus Toothpaste 065,Personal Care,Toothpaste,Economy,0.75,18.98,30,pack,31,300
+P0066,NutriMax Nuts 066,Snacks,Nuts,Premium,19.93,2.22,45,liter,49,174
+P0067,NutriMax Toothpaste 067,Personal Care,Skin Care,Economy,13.51,8.74,365,kg,27,409
+P0068,ValuePlus Ice Cream 068,Frozen,Ice Cream,Regular,3.46,4.17,30,pack,17,160
+P0069,ValuePlus Ice Cream 069,Frozen,Frozen Food,Regular,7.76,7.47,60,unit,50,323
+P0070,ValuePlus Milk 070,Dairy,Milk,Economy,7.66,18.9,365,liter,11,496
+P0071,HomeBest Oil 071,Grocery,Spices,Premium,11.29,4.01,30,kg,35,108
+P0072,GreenBasket Coffee 072,Beverages,Juice,Economy,15.92,1.45,45,kg,10,177
+P0073,HomeBest Coffee 073,Beverages,Soft Drink,Economy,9.82,18.21,60,liter,24,341
+P0074,HomeBest Rice 074,Grocery,Pulses,Economy,5.67,13.34,45,pack,16,332
+P0075,DailyMart Juice 075,Beverages,Coffee,Premium,17.39,9.61,30,pack,23,411
+P0076,NutriMax Skin Care 076,Personal Care,Shampoo,Economy,6.22,5.59,365,pack,32,108
+P0077,NutriMax Biscuits 077,Snacks,Chocolate,Regular,2.25,3.65,60,kg,33,113
+P0078,NutriMax Ice Cream 078,Frozen,Ice Cream,Premium,12.76,10.08,30,unit,32,426
+P0079,HomeBest Cleaner 079,Household,Detergent,Regular,6.11,13.62,180,unit,48,470
+P0080,HomeBest Shampoo 080,Personal Care,Soap,Premium,13.21,9.07,60,pack,42,273
+P0081,FreshChoice Ice Cream 081,Frozen,Ice Cream,Premium,8.67,13.53,45,kg,31,405
+P0082,ValuePlus Ice Cream 082,Frozen,Frozen Food,Premium,2.66,5.35,30,liter,37,472
+P0083,NutriMax Spices 083,Grocery,Spices,Regular,5.1,7.49,90,liter,8,154
+P0084,HomeBest Soap 084,Personal Care,Toothpaste,Premium,22.08,9.9,30,pack,50,131
+P0085,HomeBest Shampoo 085,Personal Care,Skin Care,Regular,6.01,16.89,30,liter,12,381
+P0086,GreenBasket Cheese 086,Dairy,Cheese,Premium,20.95,19.61,45,liter,40,124
+P0087,DailyMart Bun 087,Bakery,Bun,Economy,22.04,17.33,60,liter,26,453
+P0088,FreshChoice Toothpaste 088,Personal Care,Toothpaste,Economy,14.71,13.33,45,liter,39,297
+P0089,ValuePlus Paper 089,Household,Paper,Premium,11.66,6.71,45,pack,41,246
+P0090,GreenBasket Chips 090,Snacks,Chocolate,Economy,12.09,18.3,90,liter,47,455
+P0091,GreenBasket Milk 091,Dairy,Yogurt,Economy,24.15,6.91,30,liter,11,319
+P0092,FreshChoice Frozen Food 092,Frozen,Ice Cream,Economy,24.26,1.87,60,kg,44,404
+P0093,NutriMax Bread 093,Bakery,Cake,Economy,21.55,7.85,60,liter,39,68
+P0094,DailyMart Tea 094,Beverages,Soft Drink,Economy,2.71,19.58,365,unit,33,135
+P0095,FreshChoice Shampoo 095,Personal Care,Toothpaste,Regular,7.69,7.75,45,pack,38,260
+P0096,DailyMart Yogurt 096,Dairy,Milk,Economy,21.84,12.55,45,liter,42,123
+P0097,GreenBasket Chocolate 097,Snacks,Nuts,Premium,16.84,18.02,90,kg,48,329
+P0098,FreshChoice Butter 098,Dairy,Cheese,Economy,7.83,19.26,365,kg,34,482
+P0099,DailyMart Skin Care 099,Personal Care,Skin Care,Regular,6.31,11.61,180,kg,49,201
+P0100,NutriMax Spices 100,Grocery,Oil,Regular,14.37,13.84,365,unit,43,431
+P0101,Real Juice 1,Beverages,Juice,Real,79.05,106.08,181,pack,36,119
+P0102,Lays Chips 2,Snacks,Chips,Lays,137.12,190.21,181,kg,46,326
+P0103,Aavin Milk 3,Dairy,Milk,Aavin,78.53,105.69,13,litre,28,141
+P0104,Britannia Bread 4,Bakery,Bread,Britannia,323.55,433.8,14,bottle,42,288
+P0105,FreshFarm Apple 5,Fruits,Apple,FreshFarm,190.0,265.58,11,box,35,215
+P0106,FreshFarm Tomato 6,Vegetables,Tomato,FreshFarm,111.71,136.05,8,piece,53,231
+P0107,India Gate Rice 7,Rice & Grains,Rice,India Gate,162.2,218.8,371,packet,15,216
+P0108,Tata Sampann Toor Dal 8,Pulses,Toor Dal,Tata Sampann,140.51,169.82,367,pack,36,248
+P0109,Dove Soap 9,Personal Care,Soap,Dove,163.65,202.93,547,kg,24,333
+P0110,Surf Excel Detergent 10,Household,Detergent,Surf Excel,283.16,377.17,736,litre,24,186
+P0111,McCain Frozen Peas 11,Frozen Foods,Frozen Peas,McCain,332.45,438.51,183,bottle,34,204
+P0112,Maggi Noodles 12,Packaged Foods,Noodles,Maggi,125.38,170.37,372,box,33,178
+P0113,Real Juice 13,Beverages,Juice,Real,106.31,144.61,182,piece,25,235
+P0114,Lays Chips 14,Snacks,Chips,Lays,211.41,255.1,182,packet,21,282
+P0115,Aavin Milk 15,Dairy,Milk,Aavin,201.0,268.63,13,pack,31,189
+P0116,Britannia Bread 16,Bakery,Bread,Britannia,183.29,236.63,9,kg,16,268
+P0117,FreshFarm Apple 17,Fruits,Apple,FreshFarm,210.47,268.32,12,litre,15,109
+P0118,FreshFarm Tomato 18,Vegetables,Tomato,FreshFarm,191.4,238.86,12,bottle,47,224
+P0119,India Gate Rice 19,Rice & Grains,Rice,India Gate,50.84,72.26,367,box,59,188
+P0120,Tata Sampann Toor Dal 20,Pulses,Toor Dal,Tata Sampann,138.22,189.23,363,piece,48,178
+P0121,Dove Soap 21,Personal Care,Soap,Dove,207.13,264.08,539,packet,49,230
+P0122,Surf Excel Detergent 22,Household,Detergent,Surf Excel,313.17,418.48,737,pack,28,140
+P0123,McCain Frozen Peas 23,Frozen Foods,Frozen Peas,McCain,332.53,384.77,178,kg,28,344
+P0124,Maggi Noodles 24,Packaged Foods,Noodles,Maggi,241.7,313.29,365,litre,18,123
+P0125,Real Juice 25,Beverages,Juice,Real,24.24,32.27,187,bottle,37,239
+P0126,Lays Chips 26,Snacks,Chips,Lays,206.13,292.11,184,box,28,329
+P0127,Aavin Milk 27,Dairy,Milk,Aavin,82.12,117.65,15,piece,50,245
+P0128,Britannia Bread 28,Bakery,Bread,Britannia,237.67,312.26,11,packet,50,329
+P0129,FreshFarm Apple 29,Fruits,Apple,FreshFarm,96.98,128.96,12,pack,51,218
+P0130,FreshFarm Tomato 30,Vegetables,Tomato,FreshFarm,223.12,283.55,6,kg,21,291
+P0131,India Gate Rice 31,Rice & Grains,Rice,India Gate,42.35,56.41,368,litre,53,190
+P0132,Tata Sampann Toor Dal 32,Pulses,Toor Dal,Tata Sampann,126.04,169.74,369,bottle,42,184
+P0133,Dove Soap 33,Personal Care,Soap,Dove,240.64,286.0,542,box,27,183
+P0134,Surf Excel Detergent 34,Household,Detergent,Surf Excel,47.69,62.78,728,piece,33,157
+P0135,McCain Frozen Peas 35,Frozen Foods,Frozen Peas,McCain,190.31,256.51,187,packet,54,285
+P0136,Maggi Noodles 36,Packaged Foods,Noodles,Maggi,125.16,155.71,366,pack,18,129
+P0137,Real Juice 37,Beverages,Juice,Real,238.85,333.41,180,kg,36,183
+P0138,Lays Chips 38,Snacks,Chips,Lays,336.3,457.26,183,litre,38,286
+P0139,Aavin Milk 39,Dairy,Milk,Aavin,313.53,380.86,17,bottle,44,276
+P0140,Britannia Bread 40,Bakery,Bread,Britannia,297.94,373.36,12,box,46,272
+P0141,FreshFarm Apple 41,Fruits,Apple,FreshFarm,219.45,279.32,6,piece,19,100
+P0142,FreshFarm Tomato 42,Vegetables,Tomato,FreshFarm,337.95,410.59,8,packet,16,128
+P0143,India Gate Rice 43,Rice & Grains,Rice,India Gate,141.33,166.81,370,pack,27,114
+P0144,Tata Sampann Toor Dal 44,Pulses,Toor Dal,Tata Sampann,125.2,165.99,372,kg,27,159
+P0145,Dove Soap 45,Personal Care,Soap,Dove,240.43,285.7,540,litre,50,166
+P0146,Surf Excel Detergent 46,Household,Detergent,Surf Excel,80.61,111.04,732,bottle,53,238
+P0147,McCain Frozen Peas 47,Frozen Foods,Frozen Peas,McCain,164.59,201.16,182,box,50,164
+P0148,Maggi Noodles 48,Packaged Foods,Noodles,Maggi,34.22,49.26,366,piece,40,107
+P0149,Real Juice 49,Beverages,Juice,Real,59.75,77.06,181,packet,24,144
+P0150,Lays Chips 50,Snacks,Chips,Lays,207.3,297.96,181,pack,16,334

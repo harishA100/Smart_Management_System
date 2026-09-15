@@ -1,0 +1,6 @@
+store_id,store_name,region,store_type,selling_area_sqft
+S01,SuperMart Store 01,Zone-1,Suburban,4911
+S02,SuperMart Store 02,Zone-2,Suburban,4677
+S03,SuperMart Store 03,Zone-3,Urban,3986
+S04,SuperMart Store 04,Zone-1,Suburban,2397
+S05,SuperMart Store 05,Zone-2,Residential,2278
